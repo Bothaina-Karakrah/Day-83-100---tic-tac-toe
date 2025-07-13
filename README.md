@@ -12,5 +12,7 @@ How to Play
 Screenshots
 The game interface shows the current board state and provides feedback for invalid moves and game completion.
 <img width="324" alt="Game start with random symbol assignment" src="https://user-images.githubusercontent.com/63556283/208286917-a1d325ac-5375-4e5c-82da-d8c6dd835a49.png">
+
 <img width="324" alt="Error message for occupied cell selection" src="https://user-images.githubusercontent.com/63556283/208286993-646631df-0864-4f07-bb38-81628e108801.png">
+
 <img width="324" alt="Game end screen with replay option" src="https://user-images.githubusercontent.com/63556283/208287035-5c662de8-2c44-44ae-be02-6f51e50023f3.png">
