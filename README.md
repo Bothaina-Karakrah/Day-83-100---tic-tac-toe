@@ -9,7 +9,7 @@ How to Play
 4. Continue alternating turns until someone wins or the board fills up
 5. Choose whether to play another round when prompted
 
-Screenshots
+## Screenshots
 The game interface shows the current board state and provides feedback for invalid moves and game completion.
 <img width="324" alt="Game start with random symbol assignment" src="https://user-images.githubusercontent.com/63556283/208286917-a1d325ac-5375-4e5c-82da-d8c6dd835a49.png">
 
